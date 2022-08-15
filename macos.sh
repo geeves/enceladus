@@ -10,6 +10,7 @@ else
 fi
 
 brew install pre-commit
+brew install commitizen
 
 pre-commit install
 
