@@ -1,4 +1,4 @@
-package io.soulglo.nucleus.story
+package io.soulglo.enceladus.story
 
 import org.springframework.ui.Model
 import org.springframework.web.bind.annotation.GetMapping

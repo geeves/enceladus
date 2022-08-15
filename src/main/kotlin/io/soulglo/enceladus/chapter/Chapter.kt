@@ -1,4 +1,4 @@
-package io.soulglo.nucleus.chapter
+package io.soulglo.enceladus.chapter
 
 import java.time.OffsetDateTime
 import java.util.UUID

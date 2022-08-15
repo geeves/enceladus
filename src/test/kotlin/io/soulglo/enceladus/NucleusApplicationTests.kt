@@ -1,4 +1,4 @@
-package io.soulglo.nucleus
+package io.soulglo.enceladus
 
 //@SpringBootTest
 class NucleusApplicationTests {

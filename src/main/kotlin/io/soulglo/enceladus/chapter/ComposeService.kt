@@ -1,4 +1,4 @@
-package io.soulglo.nucleus.chapter
+package io.soulglo.enceladus.chapter
 
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
