@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service
 class ComposeService {
 
 
-	private fun appendLocations(doc: Document, chapterId: Int): Document {
+	fun appendLocations(doc: Document, chapterId: Int): Document {
 		for ((i, el: Element) in doc.select("p").withIndex()) {
 			el.attr("location", "${chapterId}-${i}")
 		}
@@ -23,7 +23,7 @@ class ComposeService {
 		return cleaner.clean(dirtyDocument)
 	}
 
-	private fun clean(html: String): Document {
+	fun clean(html: String): Document {
 		return clean(Jsoup.parse(html))
 	}
 
