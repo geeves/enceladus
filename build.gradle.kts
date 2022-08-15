@@ -6,6 +6,7 @@ plugins {
 	id("org.asciidoctor.convert") version "1.5.8"
 	id("org.owasp.dependencycheck") version "7.1.1"
 	id("com.diffplug.spotless") version "6.8.0"
+	id("org.jetbrains.kotlinx.kover") version "0.6.0-Beta"
 	kotlin("jvm") version "1.7.10"
 	kotlin("plugin.spring") version "1.7.10"
 	kotlin("plugin.jpa") version "1.7.10"
