@@ -4,8 +4,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class NucleusApplication
+class EnceladusApplication
 
 fun main(args: Array<String>) {
-	runApplication<NucleusApplication>(*args)
+	runApplication<EnceladusApplication>(*args)
 }
