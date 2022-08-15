@@ -1,4 +1,4 @@
-# nucleus
+# enceladus
 
 A writing CMS of some sort. Don't worry about the name,
 it's just a random project name until something more official

@@ -5,4 +5,4 @@ pluginManagement {
 		gradlePluginPortal()
 	}
 }
-rootProject.name = "nucleus-cms"
+rootProject.name = "enceladus-cms"
