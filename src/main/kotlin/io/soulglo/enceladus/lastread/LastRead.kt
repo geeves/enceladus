@@ -1,4 +1,4 @@
-package io.soulglo.nucleus.lastread
+package io.soulglo.enceladus.lastread
 
 data class LastRead(
 	val lastReadId: Int? = null,

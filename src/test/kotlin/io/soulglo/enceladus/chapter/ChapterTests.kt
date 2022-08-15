@@ -1,4 +1,4 @@
-package io.soulglo.nucleus.chapter
+package io.soulglo.enceladus.chapter
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Assertions.assertNull
